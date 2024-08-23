@@ -1,5 +1,9 @@
 # API Deployment Example
 
+##This repo is used for an example of how to create rust apis, docker files, cacheing with chef and github actions for CI
+See full video for how to use here:
+https://www.youtube.com/watch?v=_gMzg77Qjm0 
+
 ## Setup
 
 1. Make sure [Docker](https://www.docker.com/) is installed and running
